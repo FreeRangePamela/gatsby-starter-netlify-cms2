@@ -16,7 +16,7 @@ mainpitch:
     Thanks for visiting! Take a look around and find out more about what I do.
 
 description: "I'm doing research on Headless and Hybrid CMSs, and therefore am
-  building this site as part of my learning process. "
+  building this site as part of my learning process. Please bear with me. "
 intro:
   blurbs: []
   heading: What I do
