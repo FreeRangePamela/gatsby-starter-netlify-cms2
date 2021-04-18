@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Pamela Parker's Site
-image: /img/pamelaprofile-final.jpg
+image: /img/johnny-briggs-ymeis5_dewk-unsplash.jpeg
 heading: About Pamela Parker
 subheading: I'm switching to a new CMS/system so please be patient
 mainpitch:
