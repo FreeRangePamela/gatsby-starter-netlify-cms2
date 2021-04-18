@@ -5,12 +5,15 @@ image: /img/pamelaprofile-final.jpg
 heading: About Pamela Parker
 subheading: I'm switching to a new CMS/system so please be patient
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: Who am I?
+  description: >+
+    Hi and welcome to my site.
+
+    I’ve been involved in the internet marketing and social media world — as a journalist, as a writer, or as an employee of a media business start-up helping independent publishers and world-class marketers — for more than 20 years.
+
+
+    Thanks for visiting! Take a look around and find out more about what I do.
+
 description: Kaldi is the ultimate spot for coffee lovers who want to learn
   about their java’s origin and support the farmers that grew it. We take coffee
   production, roasting and brewing seriously and we’re glad to pass that
