@@ -2,6 +2,8 @@
 templateKey: about-page
 path: /about
 title: About me
+image: /img/jumbotron.jpg
+heading: All about me
 ---
 I'm a seasoned, tech-savvy journalist with business experience and a passionate interest in interactive media and marketing. I am currently Research Director for Third Door Media's Content Studio, where I'm responsible for producing our Martech Intelligence Reports, among other things. Here's an animation I wrote and created to explain what MIRs are all about.
 
